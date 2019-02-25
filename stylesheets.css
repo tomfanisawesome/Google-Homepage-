@@ -1,11 +1,11 @@
 
 
-.centered_div {
-    width: 60px;
-    height: 20px;
+.centered_logo {
+    width: 600px;
+    height: 200px;
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-left: 30px;
-    margin-top: 10px;
+    margin-left: 300px;
+    margin-top: 100px;
  }
