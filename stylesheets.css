@@ -9,8 +9,7 @@
 }
 .search-bar{
     margin: auto;
-    width: 50%;
-    border: 3px solid;
+    width: 80%;
     padding: 10px;
  }
  
@@ -54,3 +53,7 @@
     bottom: 30px;
     width: 100%;
 }
+.inner {
+    width: 50%;
+    margin: 0 auto;
+  }
