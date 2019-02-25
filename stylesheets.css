@@ -1,0 +1,11 @@
+
+
+.centered_div {
+    width: 60px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: 30px;
+    margin-top: 10px;
+ }
