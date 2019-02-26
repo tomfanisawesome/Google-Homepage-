@@ -6,11 +6,15 @@
     display: block;
     margin-left:auto;
     margin-right:auto;
+    margin-bottom:20px;
 }
 .search-bar{
     margin: auto;
     width: 80%;
     padding: 10px;
+    margin-bottom:20px;
+
+    
  }
  
  ul {
@@ -57,3 +61,23 @@
     width: 50%;
     margin: 0 auto;
   }
+center{
+    display: block;
+    text-align: -webkit-center;
+}
+.search{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    color: #757575;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+    text-align: center;
+    height: 36px;
+    line-height: 27px;
+}
